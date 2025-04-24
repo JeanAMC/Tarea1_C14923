@@ -11,7 +11,6 @@ function alternar() {
 btnAlternar.addEventListener("click", alternar);
 
 
-// Toggle para Work Experience
 const btnAlternarExperience = document.querySelector("#btnAlternarExperience");
 const elementosExperience = document.querySelectorAll(".esconderEx");  // usa .esconderEx en los divs de Experience
 
